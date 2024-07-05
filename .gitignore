@@ -86,3 +86,9 @@ pyrightconfig.json
 
 # Ignore custom settings
 *.config
+
+terraform.tfvars
+.terraform.lock.hcl
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
